@@ -13,3 +13,5 @@ python3 file.py
 - [ ] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [X] Introduce myself to the world
+
+Finished 🥇 👨‍🦲
