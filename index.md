@@ -14,4 +14,6 @@ python3 file.py
 - [x] Outline my portfolio
 - [X] Introduce myself to the world
 
+Commits should use markdown too
+
 Finished 🥇 👨‍🦲
